@@ -1,0 +1,43 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "LoginManagerContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": "Context2",
+   "OutputPath": "Entities2",
+   "ProjectRootNamespace": "HotelManagement",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[frontend]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[kitchen]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-VD1N2JE.LOGIN_MANAGER",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
